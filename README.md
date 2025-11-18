@@ -1,101 +1,113 @@
-# Nadis AI Infrastructure Systems
+# **SME AI Infrastructure Diagnostics**
 
-[**Go to Live Site**](https://aiwithari.github.io/sme-ai-infrastructure/)
-
-**Quick Links:**  
-[AI Canvas](https://canvas.nadis.ai) · [Pulse](https://pulse.nadis.ai) · [SCALE Factor](https://scalefactor.nadis.ai)
-
-
-**Strategic Infrastructure for Scaling Enterprises**  
-Tools, frameworks, and diagnostics for building intelligent, adaptive organizations in the era of ambient AI.
+Tools, schemas, and operating frameworks for evaluating and improving AI readiness in small and midsized enterprises.
+Designed to help organizations transition from fragmented AI experimentation to coherent, scalable AI infrastructure.
 
 ---
 
-## Why This Repo Exists
+## **Purpose of This Repository**
 
-Most businesses are adopting AI.  
-Few are investing in the infrastructure required to **scale it intelligently.**
+Most organizations are adopting AI, but few are building the underlying infrastructure needed to **scale it safely, reliably, and coherently**.
 
-This public repo highlights the core systems used by **Nadis Intelligence™** to help small and midsized enterprises:
+This repository highlights selected components of the diagnostic and operating model frameworks used at **Nadis Intelligence™** to help leadership teams:
 
-- Audit internal operations and infrastructure gaps
-- Build intelligent systems that evolve with the business
-- Replace reactive tool stacks with coherent operating models
-- Track the ROI of AI investments with clarity
+* Identify infrastructure gaps before scaling breaks
+* Evaluate AI readiness using structured, repeatable input schemas
+* Replace reactive tool sprawl with coherent operating models
+* Improve decision velocity and integration reliability
 
-> We don’t just build apps — we design the infrastructure that makes AI adoption actually work.
-
----
-
-## What’s Inside
-
-| File/Folder                                   | Description                                                                 |
-|-----------------------------------------------|-----------------------------------------------------------------------------|
-| [`docs/ai-operating-model-canvas.md`](./docs/ai-operating-model-canvas.md) | Full explanation + screenshot of our AI Operating Model framework           |
-| `assets/ai-operating-model-canvas.png`        | Static canvas image used in consulting                                      |
-| `templates/infrastructure-checklist.json`     | AI/ops readiness checklist for SMEs                                         |
-| `templates/signal-input-schema.json`          | Diagnostic signal format used in Symbi/SCALE Factor™                       |
-| `docs/framework-3-symbioses.md`               | Core Nadis framework: The Three Symbioses™                                  |
-| `docs/diagnostic-dimensions.md`               | Strategic categories used to assess infrastructure maturity                 |
-| `landing.html`                                | Visual front page for non-technical stakeholders                            |
-| `demo-app/` (optional)                        | Lightweight React/HTML visualizations (e.g. canvas, signal graphs)          |
+> This repo focuses on the *infrastructure layer* required for sustainable AI adoption—not the applications themselves.
 
 ---
 
-## Use Cases
+## **Repository Contents**
 
-These systems are applied in real client work at Nadis Intelligence to deliver measurable results:
+| File/Folder                                                                            | Description                                                         |
+| -------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| [`docs/ai-operating-model-canvas.md`](./docs/ai-operating-model-canvas.md)             | Explanation of the AI Operating Model Canvas.                       |
+| [`assets/ai-operating-model-canvas.png`](./docs/ai-operating-model-canvas.png)         | Static Canvas image used in readiness reviews.                      |
+| [`templates/infrastructure-checklist.json`](./templates/infrastructure-checklist.json) | Infrastructure readiness checklist.                                 |
+| [`templates/signal-input-schema.json`](./templates/signal-input-schema.json)           | Diagnostic schema used in scoring and infrastructure assessments.   |
+| [`docs/framework-3-symbioses.md`](./docs/framework-3-symbioses.md)                     | The Three Symbioses™ — core framework for infrastructure coherence. |
+| [`docs/diagnostic-dimensions.md`](./docs/diagnostic-dimensions.md)                     | Definitions of AI maturity and infrastructure readiness dimensions. |
 
-- **Symbi™**: Keeps leadership connected to the real-time health of infrastructure with continuous signal tracking, so small issues are caught before they become expensive problems.
+All links and file references preserved.
 
-- **SCALE Factor™**: Gives executives a clear, data-backed view of where AI and operational systems are coherent — and where they’re holding growth back — in under 10 minutes.
-
-- **Executive Ops**: Aligns decision rights, budget visibility, and tool ROI into one operating rhythm, enabling faster, higher-confidence decisions.
-
-- **Consulting & Workshops**: Embeds these tools directly into leadership operations through advisory engagements, AI readiness bootcamps, and strategic planning sessions.
 ---
 
-## About Nadis Intelligence™
+## **How These Tools Are Used**
 
-We specialize in helping **scaling businesses** build **living infrastructure** — operating systems that evolve with leadership, reduce complexity, and improve AI outcomes.
+These frameworks support advisory and infrastructure design work at Nadis Intelligence:
 
-Our work blends:
+### **SCALE Factor™ (AI readiness scoring)**
 
-- Strategic advisory for AI transformation
-- Infrastructure design for fast-scaling orgs
-- Tool and systems audits for operational clarity
+A structured assessment used to measure infrastructure coherence and identify scaling risks before AI adoption accelerates.
 
-Visit → [https://nadis.ai](https://nadis.ai)  
+### **AI Operating Model Design**
+
+Used in consulting engagements to align workflows, governance, tools, and data paths into a coherent operating blueprint.
+
+### **Infrastructure Audits**
+
+Templates and schemas are applied during readiness evaluations for small and midsized businesses preparing for AI deployment.
+
+### **Workshops & Founder Enablement**
+
+These tools serve as foundational materials in AI readiness bootcamps and leadership workshops focused on operational alignment.
+
+---
+
+## **Why Infrastructure Matters**
+
+AI isn’t just a model problem — **it’s an infrastructure problem**.
+
+Organizations that adopt LLMs without addressing fragmented workflows, misaligned systems, and unclear ownership accumulate **incoherence debt**:
+
+* duplicated workflows
+* redundant tooling
+* integration failure points
+* unpredictable AI behavior
+* misaligned data flows
+* high operational cost
+
+This repository captures the scaffolding required to move from **reactive AI adoption** to **infrastructure-first AI design**.
+
+---
+
+## **About Nadis Intelligence™**
+
+Nadis Intelligence helps scaling organizations build **coherent, adaptive infrastructure** that supports sustainable AI adoption.
+
+Our work focuses on:
+
+* AI infrastructure strategy
+* Workflow and system architecture
+* Readiness diagnostics and scoring
+* Operating model design for scale
+
+Learn more → [https://nadis.ai](https://nadis.ai)
 Contact → [hello@nadis.ai](mailto:hello@nadis.ai)
 
 ---
 
-## Strategic Narrative
+## **Collaborate or License**
 
-AI is not just a tool problem — it's an infrastructure challenge.
+We welcome collaboration with:
 
-If your org is investing in AI but operating with duct-taped systems, you're not just wasting money — you're building **incoherence debt.**
+* VCs supporting AI adoption across portfolios
+* Innovation teams evaluating operational readiness
+* Advisors designing AI operating models
 
-Nadis helps you shift from **fragmented adoption** to **orchestrated intelligence**.
-
----
-
-## Collaborate or License
-
-We’re open to collaboration with:
-
-- Strategic advisors and VCs supporting digital adoption
-- Innovation teams in need of diagnostics or operating model design
-- Ecosystem partners building AI systems for real business use
-
-**License:** MIT (Attribution required)
+**License:** MIT for code and templates.
+Frameworks (e.g., The Three Symbioses™, SCALE Factor™) remain proprietary to Nadis Intelligence.
 
 ---
 
-## Author
+## **Author**
 
-**Ariana Abramson, MSc**  
-Founder, Nadis Intelligence  
-AI Infrastructure Strategist | Systems Designer | Operator
+**Ariana Abramson, MSc**
+Founder, Nadis Intelligence
+AI Infrastructure Architect • Systems Designer • Startup Operator
 
-> “Infrastructure is the new strategy. If it doesn’t scale with you, it’s a liability.”
+> “AI succeeds when the infrastructure underneath it is coherent. Infrastructure isn’t overhead—it’s leverage.”
+
